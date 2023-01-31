@@ -1,0 +1,2 @@
+docker build -t shadered_catharsis_mode .
+x11docker --gpu --sudouser --pulseaudio=host --network -- "-v $PWD/SHADERed_host/:/SHADERed_host/" shadered_catharsis_mode /bin/bash -c "cp -r --no-clobber /SHADERed/bin /SHADERed_host && /SHADERed_host/bin/SHADERed"
