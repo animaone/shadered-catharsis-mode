@@ -1,7 +1,7 @@
 ## shadered-catharsis-mode: Latest SHADERed shader editor docker image. A docker image I realized after a day of catharsis.
 
 ## What is this?
-* This is a docker image for running the latest version of <b>SHADERed shader editor</b> in <b>Linux</b> throught X11Docker
+* This is a docker image for running the latest version of <b>[SHADERed shader editor](https://github.com/dfranx/SHADERed)</b> in <b>Linux</b> throught X11Docker
 
 ## How to use: 
 1. Install the following tools in your Linux distro:
